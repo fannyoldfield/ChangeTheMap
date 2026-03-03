@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pystac-client==0.8.5
+planetary-computer==1.0.0
+rasterio==1.4.3
+numpy==2.2.1
+shapely==2.0.6
+pyproj==3.7.0
